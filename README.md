@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-# My name is Anderson
+# Hi, i'm Anderson
 
 ## About me
 - 🎓 I'm studying Software Engineering at Federal University of Ceará.
