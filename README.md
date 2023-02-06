@@ -13,6 +13,12 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 </div>
 
+# Technologies I use the most
+<div>
+<a href="https://github.com/AndersonLima0">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonLima0&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 # How find me
 <div>
   <a href="https://www.linkedin.com/in/anderson-lima-100860256" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
